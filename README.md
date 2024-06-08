@@ -42,11 +42,11 @@ INSTRUCTIONS
 
 	c. Right click on options.json then open with Notepad.
 
-	d. Change "wallpaperDir" value and input the location of the folder you created in step 6a. USE THE DRIVE LETTER THAT APPEARS ON YOUR CLIENT, NOT ON SERVER. Also use "\\" as separator instead of "\", for example, "Z:\\Wallpapers\\Joke dito talaga".
+	d. Change "wallpaperDir" value and input the location of the folder you created in step 6a. USE THE DRIVE LETTER THAT APPEARS ON YOUR CLIENT, NOT ON SERVER. Also use double "\\" as separator instead of one, for example, "Z:\\\Wallpapers\\\Joke dito talaga".
 
 	e. Change "mode" value to "random" if you want random wallpaper and "perPC" if you want a specific wallpaper per pc.
 
-	f. Change "startIP" value to IP address of your PC1. Don't forget the "".
+	f. Change "startIp" value to IP address of your PC1. Don't forget the "".
 
 		{
 		

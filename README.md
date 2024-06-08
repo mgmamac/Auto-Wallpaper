@@ -14,7 +14,7 @@ INSTRUCTIONS
 
 3. On your client, delete existing uploaded wallpaper. If you are not using any billing software, skip this step.
   
-	a. For those using PanCafe Pro, go to C:\Program Files (x86)\PanGroup\PanCafe Pro Client\upload (or wherever you installed it) and delete wall.bmp.
+	a. For those using PanCafe Pro, go to C:\Program Files (x86)\PanGroup\PanCafe Pro Client\upload (or wherever you installed it) and delete wall.bmp. If upload folder or wall.bmp does not exist, skip this step.
 
 	b. For other billing software, go to their respective folder and delete the uploaded wallpaper.
 

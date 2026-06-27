@@ -1,3 +1,5 @@
+#compile with pyinstaller "autoWallpaper.py" --onefile --noconsole
+
 import json
 from os import chdir
 from os import listdir
